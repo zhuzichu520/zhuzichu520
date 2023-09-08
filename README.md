@@ -9,7 +9,7 @@
 ![Android](https://img.shields.io/badge/Android-24292e?style=flat-square&logo=Android&labelColor=24292e&color=474d56)&nbsp;
 ![Qt](https://img.shields.io/badge/Qt-24292e?style=flat-square&logo=Qt&labelColor=24292e&color=474d56)&nbsp;
 
-![Kotlin](https://img.shields.io/badge/language-kotlin-blue)&nbsp;
+![Kotlin](https://img.shields.io/badge/language-kotlin-%23A97BFF)&nbsp;
 ![Java](https://img.shields.io/badge/language-java-%23B07219)&nbsp;
 ![C++](https://img.shields.io/badge/language-c%2B%2B-%23F34B7D)&nbsp;
 ![JavaScript](https://img.shields.io/badge/language-javascript-%23EFDA4D)&nbsp;
