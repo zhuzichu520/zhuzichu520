@@ -1,8 +1,10 @@
-﻿### Hi, I'm ZhuZiChu👋
->I am a Android/Qt Programmer from China.
+### Hi, I'm ZhuZiChu 👋 / 你好，我是 朱子楚 👋
+> Android/Qt Programmer from China / 来自中国的 Android/Qt 程序员
 
-- 🏡 Blog：<a href="https://zhuzichu520.github.io/" target="_blank">zhuzichu520.github.io</a>
-- 💬 Mail：[zhuzichu520@outlook.com](zhuzichu520@outlook.com)
+- 🏡 Blog / 博客：<a href="https://zhuzichu520.github.io/" target="_blank">zhuzichu520.github.io</a>
+- 💬 Email / 邮箱：[zhuzichu520@outlook.com](zhuzichu520@outlook.com)
+
+---
 
 ### ⚡ Technologies  
 
